@@ -1,0 +1,14 @@
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\bin\Debug\net6.0\Northwnd_DbLib.deps.json
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\bin\Debug\net6.0\Northwnd_DbLib.dll
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\bin\Debug\net6.0\Northwnd_DbLib.pdb
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.csproj.AssemblyReference.cache
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.AssemblyInfoInputs.cache
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.AssemblyInfo.cs
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.csproj.CoreCompileInputs.cache
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.dll
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\refint\Northwnd_DbLib.dll
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.pdb
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\ref\Northwnd_DbLib.dll
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\bin\Debug\net6.0\Northwnd_DbLib.runtimeconfig.json
+C:\Users\anels\OneDrive\Dokumente\GitHub\Nachhilfe_Projekt\Nachhilfe_Project\Northwnd_DbLib\obj\Debug\net6.0\Northwnd_DbLib.genruntimeconfig.cache
