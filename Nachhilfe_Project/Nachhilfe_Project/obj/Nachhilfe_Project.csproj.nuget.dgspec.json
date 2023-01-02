@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anels\\source\\repos\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj": {}
+    "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anels\\source\\repos\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj": {
+    "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anels\\source\\repos\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj",
+        "projectUniqueName": "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj",
         "projectName": "Nachhilfe_Project",
-        "projectPath": "C:\\Users\\anels\\source\\repos\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj",
+        "projectPath": "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Nachhilfe_Project\\Nachhilfe_Project.csproj",
         "packagesPath": "C:\\Users\\anels\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anels\\source\\repos\\Nachhilfe_Project\\Nachhilfe_Project\\obj\\",
+        "outputPath": "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Nachhilfe_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,32 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

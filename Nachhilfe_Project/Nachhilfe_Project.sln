@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nachhilfe_Project", "Nachhilfe_Project\Nachhilfe_Project.csproj", "{A443D536-916F-4A01-A0CE-94F027BBD896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nachhilfe_Project", "Nachhilfe_Project\Nachhilfe_Project.csproj", "{A443D536-916F-4A01-A0CE-94F027BBD896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwnd_DbLib", "Northwnd_DbLib\Northwnd_DbLib.csproj", "{621C4E95-6D03-4FCB-8F87-36A456F0E4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A443D536-916F-4A01-A0CE-94F027BBD896}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A443D536-916F-4A01-A0CE-94F027BBD896}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A443D536-916F-4A01-A0CE-94F027BBD896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{621C4E95-6D03-4FCB-8F87-36A456F0E4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{621C4E95-6D03-4FCB-8F87-36A456F0E4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{621C4E95-6D03-4FCB-8F87-36A456F0E4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{621C4E95-6D03-4FCB-8F87-36A456F0E4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
