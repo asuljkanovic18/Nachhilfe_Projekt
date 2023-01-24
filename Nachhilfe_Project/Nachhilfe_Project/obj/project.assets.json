@@ -1215,6 +1215,21 @@
             "rid": "win"
           }
         }
+      },
+      "Northwnd_DbLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EntityFramework": "6.4.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.1",
+          "Microsoft.EntityFrameworkCore.Sqlite": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Northwnd_DbLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwnd_DbLib.dll": {}
+        }
       }
     }
   },
@@ -3990,6 +4005,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Northwnd_DbLib/1.0.0": {
+      "type": "project",
+      "path": "../Northwnd_DbLib/Northwnd_DbLib.csproj",
+      "msbuildProject": "../Northwnd_DbLib/Northwnd_DbLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3998,7 +4018,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.1",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.1",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.1",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.1"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.1",
+      "Northwnd_DbLib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4032,7 +4053,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Northwnd_DbLib\\Northwnd_DbLib.csproj": {
+              "projectPath": "C:\\Users\\anels\\OneDrive\\Dokumente\\GitHub\\Nachhilfe_Projekt\\Nachhilfe_Project\\Northwnd_DbLib\\Northwnd_DbLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

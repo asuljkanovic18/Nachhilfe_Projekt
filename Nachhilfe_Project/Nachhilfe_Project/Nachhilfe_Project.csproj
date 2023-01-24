@@ -21,4 +21,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Northwnd_DbLib\Northwnd_DbLib.csproj" />
+  </ItemGroup>
+
 </Project>

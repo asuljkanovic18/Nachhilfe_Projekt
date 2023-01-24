@@ -5,8 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Nachhilfe_Project"
         mc:Ignorable="d"
+        Loaded="Window_Loaded"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Button Content="Create Category" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="120" Click="CreateCategoryButton_Click"/>
+                <TextBox x:Name="CategoryNameTextBox" HorizontalAlignment="Left" Height="23" Margin="136,10,0,0" TextWrapping="Wrap" Text="Category Name" VerticalAlignment="Top" Width="120"/>
+                <TextBox x:Name="CategoryDescriptionTextBox" HorizontalAlignment="Left" Height="23" Margin="262,10,0,0" TextWrapping="Wrap" Text="Description" VerticalAlignment="Top" Width="120"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="ProductNameTextBox" Width="150" Text="Product Name" Margin="5"/>
+                <TextBox x:Name="QuantityPerUnitTextBox" Width="150" Text="Quantity per Unit" Margin="5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Supplier ID:" Margin="5"/>
+                <TextBox x:Name="SupplierIDTextBox" Width="150" Margin="5"/>
+                <TextBlock Text="Category ID:" Margin="5"/>
+                <TextBox x:Name="CategoryIDTextBox" Width="150" Margin="5"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Unit Price:" Margin="5"/>
+                <TextBox x:Name="UnitPriceTextBox" Width="150" Margin="5"/>
+            </StackPanel>
+            <Button Content="Create Product" Click="CreateProductButton_Click" Margin="5"/>
+            <DataGrid Height="230" Name="dg_Products" Width="794"/>
+        </StackPanel>
     </Grid>
 </Window>
